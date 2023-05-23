@@ -1,0 +1,10 @@
+C:\Users\Kalmet_Bilisim\Desktop\neslihan\chart\chart\bin\Debug\chart.exe.config
+C:\Users\Kalmet_Bilisim\Desktop\neslihan\chart\chart\bin\Debug\chart.exe
+C:\Users\Kalmet_Bilisim\Desktop\neslihan\chart\chart\bin\Debug\chart.pdb
+C:\Users\Kalmet_Bilisim\Desktop\neslihan\chart\chart\obj\Debug\chart.csprojAssemblyReference.cache
+C:\Users\Kalmet_Bilisim\Desktop\neslihan\chart\chart\obj\Debug\chart.Form1.resources
+C:\Users\Kalmet_Bilisim\Desktop\neslihan\chart\chart\obj\Debug\chart.Properties.Resources.resources
+C:\Users\Kalmet_Bilisim\Desktop\neslihan\chart\chart\obj\Debug\chart.csproj.GenerateResource.cache
+C:\Users\Kalmet_Bilisim\Desktop\neslihan\chart\chart\obj\Debug\chart.csproj.CoreCompileInputs.cache
+C:\Users\Kalmet_Bilisim\Desktop\neslihan\chart\chart\obj\Debug\chart.exe
+C:\Users\Kalmet_Bilisim\Desktop\neslihan\chart\chart\obj\Debug\chart.pdb
